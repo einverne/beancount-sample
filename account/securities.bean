@@ -1,0 +1,16 @@
+
+* Securities 证券交易
+2018-02-15 open Assets:Tiger:Cash
+; 持仓
+2018-02-15 open Assets:Tiger:Positions "FIFO"
+; 盈亏平衡账户
+2018-02-15 open Income:Tiger:PnL
+; 分红
+2018-02-15 open Income:Tiger:Dividend
+; 交易佣金及手续费
+2018-02-15 open Expenses:Tiger:Commission
+
+; 富途证券
+2021-05-20 open Assets:Futu:Cash
+2021-05-20 open Assets:Futu:Positions "FIFO"
+2021-05-20 open Assets:Futu:Commission

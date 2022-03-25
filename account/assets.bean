@@ -1,0 +1,28 @@
+; Assets
+; 个人资产，银行卡、现金、基金、股票等等
+
+; 现金
+2019-11-11 open Assets:Cash
+  name: "现金"
+
+; 支付宝
+2015-11-11 open Assets:Alipay:Balance
+  name: "支付宝余额"
+
+; 微信
+; 微信余额
+2010-01-01 open Assets:WeChat:Balance
+  name: "微信余额"
+
+2021-03-01 open Assets:WeChat:Wealth
+  name: "理财通"
+
+; 华泰证券
+2021-01-01 open Assets:Broker:HTSC CNY
+2021-02-20 note Assets:Broker:HTSC "华泰证券"
+
+* Banking
+2010-11-11 open Assets:DebitCard:CMB CNY
+
+; 交通银行借记卡
+2018-01-01 open Assets:DebitCard:COMM CNY

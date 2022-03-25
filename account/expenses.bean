@@ -1,0 +1,87 @@
+; 支出账户
+; Expenses
+; 各类消费
+
+; 衣、鞋
+2010-01-01 open Expenses:Dressup:Clothing
+2010-01-01 open Expenses:Dressup:Hair
+2010-01-01 open Expenses:Dressup:Cosmetic
+
+; 行
+2010-11-11 open Expenses:Transport:Public
+2010-11-11 open Expenses:Transport:Taxi
+2010-11-11 open Expenses:Transport:Bike
+2010-11-11 open Expenses:Transport:Railway
+
+
+2010-11-11 open Expenses:OnlineShopping:PDD
+2010-11-11 open Expenses:Daily
+;2019-11-11 note Expenses:Daily  ;"日常开销"
+2010-11-11 open Expenses:Daily:Commodity  ;"日常开销"
+2010-11-11 open Expenses:Daily:PhoneCharge ;"话费"
+
+; 食
+2010-01-01 open Expenses:Food:Drinks ;"饮料"
+2010-01-01 open Expenses:Food:Baverage ;"除水以外的饮料"
+2010-01-01 open Expenses:Food:Fruits ;"水果"
+2010-01-01 open Expenses:Food:Cooking ;"买菜"
+2010-01-01 open Expenses:Food:Snack ; "零食"
+2010-11-11 open Expenses:Food:Restaurant
+; 2019-11-11 note Expenses:Food:Restaurant ;"餐厅"
+2010-11-11 open Expenses:Food:Other
+
+; 住
+2010-11-11 open Expenses:House:Rent              ; 房租
+2010-11-11 open Expenses:House:WaterElectricity     ; 水费、电费、纸巾、洗衣液
+2010-01-01 open Expenses:House:Gas ;"燃气"
+2010-01-01 open Expenses:House:Internet ;"网费"
+2021-06-10 open Expenses:House:Commodity ; 住房日常开销
+
+
+; 医
+2010-01-01 open Expenses:Health:Hospital
+
+; Other
+2010-01-01 open Expenses:Fun:Subscription
+2010-01-01 open Expenses:Fun:Book ; "图书"
+2010-01-01 open Expenses:Fun:Software ;"软件, macOS 桌面软件， Android，iOS 应用"
+2010-01-01 open Expenses:Fun:Game ;"游戏 PS4 游戏"
+2010-01-01 open Expenses:Fun:Amusement ;"电影票、剧场、音乐"
+2010-01-01 open Expenses:PublicWelfare ;"捐赠"
+2020-01-01 open Expenses:Digital:Device ;"数码产品"
+
+; 党费
+2021-01-01 open Expenses:PartyFee ; 党费
+
+; 亲属卡
+2010-01-01 open Expenses:Parents:Daily
+
+; 旅行
+2010-11-11 open Expenses:Travel
+2010-01-01 open Expenses:Travel:Hotel ; ""
+2010-01-01 open Expenses:Travel:Fare ; "机票、高铁票"
+2010-01-01 open Expenses:Travel:Visa ; ""
+2010-01-01 open Expenses:Travel:Ticket ; ""
+
+; other
+2010-01-01 open Expenses:Digital
+2010-01-01 open Expenses:Digital:Apple ;"iOS 应用"
+2010-01-01 open Expenses:Digital:Domain ; 域名
+
+2020-01-01 open Expenses:Digital:VPS ; "VPS"
+2020-01-01 open Expenses:Digital:VPS:HostHatch ; "VPS"
+2020-01-01 open Expenses:Digital:VPS:ServaRICA ; "VPS"
+2020-01-01 open Expenses:Digital:VPS:A400 ; "VPS"
+2020-10-19 open Expenses:Digital:VPS:WebHorizon ; "VPS"
+2020-10-19 open Expenses:Digital:VPS:RackNerd ; "RackNerd VPS"
+2020-10-19 open Expenses:Digital:VPS:CloudCone ; "CloudCone VPS"
+2021-10-05 open Expenses:Digital:DedicatedServer:SYS ; "So you start"
+2021-10-05 open Expenses:Digital:DedicatedServer:SYSIP ; "So you start"
+2021-09-01 open Expenses:Digital:Obsidian ; "Obsidian"
+
+; 手续费
+2021-03-20 open Expenses:Transfer:Fee ; 购汇手续费
+
+; 证券交易手续费
+2020-01-01 open Expenses:Trade:Fee
+

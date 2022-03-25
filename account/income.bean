@@ -1,0 +1,21 @@
+; 收入
+; 资产来源，包括工资、基金分红，股票分红等
+* Income
+
+2016-11-11 open Income:Salary:Company CNY  	; "Regular Pay"
+2016-11-11 note Income:Salary:Company "工资"
+2016-11-11 open Income:Bonus:Company CNY 	; "Annual bonus"
+2016-11-11 note Income:Bonus:Company "奖金"
+
+; 红包
+2018-01-01 open Income:RedPacket
+
+; 利息
+2010-01-01 open Income:Dividend
+
+; 退税
+2021-01-01 open Income:TaxRefund
+
+2020-01-01 open Income:HousingFund CNY ; "住房公积金"
+
+2020-01-01 open Income:Deposit:Interest ; 存款利息

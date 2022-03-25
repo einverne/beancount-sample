@@ -1,0 +1,16 @@
+; Liabilities
+; 信用卡，房贷，车贷，借呗等等
+
+* Liabilities
+
+; 交通银行信用卡
+2010-11-11 open Liabilities:CreditCard:BOC:CN CNY
+2010-11-11 note Liabilities:CreditCard:BOC:CN "交通银行信用卡"
+
+2010-11-11 open Liabilities:CreditCard:BOC:US USD
+
+2010-10-10 open Liabilities:CreditCard:CITIC CNY
+
+; 京东白条
+2016-11-11 open Liabilities:CreditCard:JD CNY
+2016-11-11 note Liabilities:CreditCard:JD "京东白条"

@@ -1,0 +1,12 @@
+
+* Crypto Currency
+
+; namebase.io
+2020-01-01 commodity HNS
+  name: "HandShake balance"
+
+2021-01-01 open Assets:CryptoCurrency:HNS
+
+
+2021-03-01 open Assets:OKEx:Cash
+2021-03-01 open Assets:OKEx:Position

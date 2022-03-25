@@ -1,0 +1,10 @@
+;; -*- mode: beancount -*-
+**** /Users/einverne/Git/BeancountSample/datas/comm-2021.01.csv
+
+2020-12-19 * "消费 买单吧 - 话费充值 - 江苏欧飞" "消费 买单吧 - 话费充值 - 江苏欧飞"
+  card: "优逸白"
+  date: 2020-12-18
+  Liabilities:CreditCard:BOC:CN  -5.00 CNY
+  Expenses:Daily:PhoneCharge      5.00 CNY
+
+
