@@ -9,6 +9,13 @@
 
 
 ## 导入交通银行信用卡账单
+install requirements
+
+```
+pip install -r requirements.txt
+```
+
+and then
 
 ```shell
 export PYTHONPATH=.
