@@ -40,6 +40,7 @@
 
 ; 医
 2010-01-01 open Expenses:Health:Hospital
+2010-01-01 open Expenses:Health:Medicine
 
 ; Other
 2010-01-01 open Expenses:Fun:Subscription
@@ -49,12 +50,6 @@
 2010-01-01 open Expenses:Fun:Amusement ;"电影票、剧场、音乐"
 2010-01-01 open Expenses:PublicWelfare ;"捐赠"
 2020-01-01 open Expenses:Digital:Device ;"数码产品"
-
-; 党费
-2021-01-01 open Expenses:PartyFee ; 党费
-
-; 亲属卡
-2010-01-01 open Expenses:Parents:Daily
 
 ; 旅行
 2010-11-11 open Expenses:Travel
@@ -70,13 +65,6 @@
 
 2020-01-01 open Expenses:Digital:VPS ; "VPS"
 2020-01-01 open Expenses:Digital:VPS:HostHatch ; "VPS"
-2020-01-01 open Expenses:Digital:VPS:ServaRICA ; "VPS"
-2020-01-01 open Expenses:Digital:VPS:A400 ; "VPS"
-2020-10-19 open Expenses:Digital:VPS:WebHorizon ; "VPS"
-2020-10-19 open Expenses:Digital:VPS:RackNerd ; "RackNerd VPS"
-2020-10-19 open Expenses:Digital:VPS:CloudCone ; "CloudCone VPS"
-2021-10-05 open Expenses:Digital:DedicatedServer:SYS ; "So you start"
-2021-10-05 open Expenses:Digital:DedicatedServer:SYSIP ; "So you start"
 2021-09-01 open Expenses:Digital:Obsidian ; "Obsidian"
 
 ; 手续费
